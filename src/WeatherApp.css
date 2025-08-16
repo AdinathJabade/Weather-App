@@ -1,0 +1,53 @@
+
+
+.WeatherApp:hover {
+  box-shadow: 0 12px 40px 0 rgba(31, 38, 135, 0.25);
+}
+.WeatherApp {
+  background: rgba(255, 255, 255, 0.85);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.18);
+  border-radius: 24px;
+  padding: 2.5rem 2rem 2rem 2rem;
+  max-width: 400px;
+  width: 100%;
+  margin: 2rem auto;
+  text-align: center;
+  transition: box-shadow 0.3s;
+}
+
+.WeatherApp:hover {
+  box-shadow: 0 12px 40px 0 rgba(31, 38, 135, 0.25);
+}
+.WeatherApp {
+  background: rgba(34, 40, 49, 0.85);
+  box-shadow: 0 8px 32px 0 rgba(0,0,0,0.25);
+  border-radius: 28px;
+  padding: 2.5rem 2rem 2rem 2rem;
+  max-width: 420px;
+  width: 100%;
+  margin: 2rem auto;
+  text-align: center;
+  transition: box-shadow 0.3s, background 0.3s;
+.WeatherApp {
+  background: #fff;
+  box-shadow: 0 4px 24px 0 rgba(0,0,0,0.08);
+  border-radius: 18px;
+  padding: 2.2rem 1.5rem 1.5rem 1.5rem;
+  max-width: 400px;
+  width: 100%;
+  margin: 2rem auto;
+  text-align: center;
+  transition: box-shadow 0.2s;
+}
+
+.WeatherApp:hover {
+  box-shadow: 0 8px 32px 0 rgba(0,0,0,0.13);
+}
+  border: 1.5px solid rgba(255,255,255,0.08);
+  backdrop-filter: blur(8px);
+}
+
+.WeatherApp:hover {
+  box-shadow: 0 12px 40px 0 rgba(0,0,0,0.35);
+  background: rgba(44, 52, 63, 0.92);
+}
