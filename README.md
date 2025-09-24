@@ -2,7 +2,6 @@
 
 A modern, interactive weather app built with **React** and **Vite**. Instantly search for any city and get real-time weather updates with a clean, responsive, and visually appealing UI.
 
-![Weather App Screenshot](./screenshot.png)
 
 ## 🌦️ Features
 
